@@ -1,0 +1,30 @@
+[diff]
+    tool = default-difftool
+[difftool "default-difftool"]
+    cmd = code --wait --diff $LOCAL $REMOTE
+[merge]
+  tool = code
+[mergetool "code"]
+  cmd = code --wait --merge $REMOTE $LOCAL $BASE $MERGED
+[safe]
+	directory = E:/Projects/basc/sig/Modulo.SigProyectos
+	directory = E:/Projects/basc/operaciones/basc-client-qa
+	directory = E:/Projects/basc/Extranet/Modulo.Extranet
+	directory = E:/Projects/AUSTRAL/spfx
+	directory = E:/Projects/drupals/weboncosalud_qa/themes/oncosalud
+[core]
+	editor = code --wait
+[user]
+	email = pcastro286@outlook.com
+	name = zoecastro
+[alias]
+	sb = status -sb
+	br = branch --format='%(HEAD) %(color:yellow)%(refname:short)%(color:reset) - %(contents:subject) %(color:green)(%(committerdate:relative)) [%(authorname)]' --sort=-committerdate
+	ll = log --oneline
+	last = log -1 HEAD --stat
+	rv = remote -v
+	gl = config --global -l
+	save = !git add -A && git commit
+	p = push
+	undo = reset --soft HEAD~1
+	contrib = shortlog -e --summary --numbered
