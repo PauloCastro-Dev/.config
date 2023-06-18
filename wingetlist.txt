@@ -1,4 +1,4 @@
-   - 
+   -\| 
    - 
 Nombre                                        Id                                             Versi├│n            Origen
 -----------------------------------------------------------------------------------------------------------------------
@@ -55,7 +55,7 @@ Bloc de notas de Windows                      Microsoft.WindowsNotepad_8wekyb3d8
 Grabadora de voz de Windows                   Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe   1.0.65.0           
 Microsoft Store                               Microsoft.WindowsStore_8wekyb3d8bbwe           22304.1401.3.0     
 Vista previa de Terminal Windows              Microsoft.WindowsTerminal.Preview              1.18.1462.0        winget
-Windows Package Manager Source (winget)       Microsoft.Winget.Source_8wekyb3d8bbwe          2023.618.2225.155  
+Windows Package Manager Source (winget)       Microsoft.Winget.Source_8wekyb3d8bbwe          2023.618.2253.425  
 Xbox Game Bar Plugin                          Microsoft.XboxGameOverlay_8wekyb3d8bbwe        1.54.4001.0        
 Xbox Game Bar                                 Microsoft.XboxGamingOverlay_8wekyb3d8bbwe      5.823.3261.0       
 Xbox Identity Provider                        Microsoft.XboxIdentityProvider_8wekyb3d8bbwe   12.95.3001.0       

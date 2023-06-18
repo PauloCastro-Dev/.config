@@ -710,3 +710,7 @@ function Install-Apps{
         }
     }
 }
+
+function CopiarAntesDeFormatear{
+    cp -r C:\Users\pcast\AppData\local\nvim D:\backups\windows\config\ && winget list > D:\backups\windows\config\wingetlist.txt && nvm ls > D:\backups\windows\config\nvmls.txt && globalnpm > D:\backups\windows\config\globalnpm.txt && cp ~\AppData\local\lf\lfrc D:\backups\windows\config\lfrc.txt && cp ~\.gitconfig D:\backups\windows\config\gitconfig.txt && cat $PROFILE > D:\backups\windows\config\powershellprofile.ps1
+}
