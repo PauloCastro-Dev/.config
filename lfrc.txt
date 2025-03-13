@@ -1,0 +1,19 @@
+set drawbox
+set icons
+set number
+set dirfirst
+set hidden
+set mouse
+set shell pwsh
+
+cmd open &start $Env:f
+
+map i $less $Env:f
+
+# leave some space at the top and the bottom of the screen
+set scrolloff 10
+
+# use enter for shell commands
+map <enter> shell
+
+map e $nvim $Env:f

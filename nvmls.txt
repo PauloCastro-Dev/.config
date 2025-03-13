@@ -1,0 +1,4 @@
+
+    20.2.0
+  * 14.19.1 (Currently using 64-bit executable)
+    10.24.1

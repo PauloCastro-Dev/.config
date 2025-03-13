@@ -1,0 +1,163 @@
+   -\| 
+   - 
+Nombre                                        Id                                             Versi├│n            Origen
+-----------------------------------------------------------------------------------------------------------------------
+HyperX NGENUITY                               33C30B79.HyperXNGenuity_0a78dr3hq0pvt          5.19.0.0           
+NVM for Windows 1.1.11                        CoreyButler.NVMforWindows                      1.1.11             winget
+Visual Studio Community 2022                  Microsoft.VisualStudio.2022.Community          17.6.3             winget
+Netflix                                       4DF9E0F8.Netflix_mcm4njqhnhss8                 6.98.1805.0        
+WhatsApp Beta                                 5319275A.51895FA4EA97F_cv1g1gvanyjgm           2.2323.1.0         
+Visual Studio Professional 2019               Microsoft.VisualStudio.2019.Professional       16.11.27           winget
+Sonic Radar 3                                 A-Volute.28054DF1F58B4_w2gh52qy24etm           3.16.23.0          
+Sonic Studio 3                                A-Volute.SonicStudio3_w2gh52qy24etm            3.16.23.0          
+AMD Chipset Software                          AMD_Chipset_IODrivers                          4.07.13.2243       
+Prime Video for Windows                       AmazonVideo.PrimeVideo_pwbj9vvecjh7j           1.0.138.0          
+ARMOURY CRATE                                 B9ECED6F.ArmouryCrate_qmba6cd70vzyy            5.6.8.0            
+CCleaner                                      Piriform.CCleaner                              6.12               winget
+DTS Sound Unbound                             DTSInc.DTSSoundUnbound_t5j2fzbtdg37r           2023.2.3.0         
+Discord                                       Discord.Discord                                1.0.9013           winget
+GIMP 2.10.34                                  GIMP.GIMP                                      2.10.34            winget
+Git                                           Git.Git                                        2.41.0             winget
+GDR 1050 para SQL Server 2022 (KB5021522) (6ÔÇª KB5021522                                      16.0.1050.5        
+Microsoft Azure Compute Emulator - v2.9.7     Microsoft Azure Compute Emulator - v2.9.7      2.9.8999.43        
+Microsoft Azure Storage Emulator - v5.10      Microsoft.Azure.StorageEmulator                5.10.19227.2113    winget
+Microsoft Edge                                Microsoft.Edge                                 114.0.1823.51      winget
+Microsoft Edge Update                         Microsoft Edge Update                          1.3.175.29         
+WebView2 Runtime de Microsoft Edge            Microsoft EdgeWebView                          114.0.1823.51      
+Microsoft Help Viewer 2.3                     Microsoft Help Viewer 2.3                      2.3.28307          
+Microsoft SQL Server 2022 (64-bit)            Microsoft SQL Server SQL2022                   Unknown            
+Microsoft Visual Studio 2010 Tools for OfficÔÇª Microsoft Visual Studio 2010 Tools for OfficeÔÇª 10.0.50903         
+Paquete de idioma de Microsoft Visual StudioÔÇª Microsoft Visual Studio 2010 Tools for OfficeÔÇª 10.0.50903         
+Cortana                                       Microsoft.549981C3F5F10_8wekyb3d8bbwe          4.2204.13303.0     
+Instalador de aplicaci├│n                      Microsoft.DesktopAppInstaller_8wekyb3d8bbwe    1.19.11071.0       
+Obtener ayuda                                 Microsoft.GetHelp_8wekyb3d8bbwe                10.2303.10961.0    
+HEIF Image Extensions                         Microsoft.HEIFImageExtension_8wekyb3d8bbwe     1.0.61171.0        
+Extensiones de v├¡deo HEVC del fabricante delÔÇª Microsoft.HEVCVideoExtension_8wekyb3d8bbwe     2.0.60961.0        
+Paquete de experiencia local en espa├▒ol (EspÔÇª Microsoft.LanguageExperiencePackes-ES_8wekyb3ÔÇª 22621.21.129.0     
+Microsoft Edge                                Microsoft.MicrosoftEdge.Stable_8wekyb3d8bbwe   114.0.1823.51      
+OneDrive                                      Microsoft.OneDriveSync_8wekyb3d8bbwe           23107.521.1.0      
+Outlook for Windows                           Microsoft.OutlookForWindows_8wekyb3d8bbwe      1.2023.526.100     
+Contactos de Microsoft                        Microsoft.People_8wekyb3d8bbwe                 10.2202.31.0       
+PowerToys ImageResizer Context Menu           Microsoft.PowerToys.ImageResizerContextMenu_8ÔÇª 0.70.1.0           
+PowerToys PowerRename Context Menu            Microsoft.PowerToys.PowerRenameContextMenu_8wÔÇª 0.70.1.0           
+Raw Image Extension                           Microsoft.RawImageExtension_8wekyb3d8bbwe      2.1.60611.0        
+Herramienta Recortes                          Microsoft.ScreenSketch_8wekyb3d8bbwe           11.2303.17.0       
+Seguridad de Windows                          Microsoft.SecHealthUI_8wekyb3d8bbwe            1000.25305.9000.0  
+Host de la experiencia de Store               Microsoft.StorePurchaseApp_8wekyb3d8bbwe       12303.1401.1.0     
+VP9 Video Extensions                          Microsoft.VP9VideoExtensions_8wekyb3d8bbwe     1.0.61591.0        
+Extensiones de multimedia web                 Microsoft.WebMediaExtensions_8wekyb3d8bbwe     1.0.42192.0        
+Webp Image Extensions                         Microsoft.WebpImageExtension_8wekyb3d8bbwe     1.0.52351.0        
+Fotos de Microsoft                            Microsoft.Windows.Photos_8wekyb3d8bbwe         2023.11050.16005.0 
+Alarmas y reloj de Windows                    Microsoft.WindowsAlarms_8wekyb3d8bbwe          1.0.104.0          
+Calculadora de Windows                        Microsoft.WindowsCalculator_8wekyb3d8bbwe      11.2210.0.0        
+C├ímara de Windows                             Microsoft.WindowsCamera_8wekyb3d8bbwe          2023.2304.11.0     
+Bloc de notas de Windows                      Microsoft.WindowsNotepad_8wekyb3d8bbwe         11.2304.26.0       
+Grabadora de voz de Windows                   Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe   1.0.65.0           
+Microsoft Store                               Microsoft.WindowsStore_8wekyb3d8bbwe           22304.1401.3.0     
+Vista previa de Terminal Windows              Microsoft.WindowsTerminal.Preview              1.18.1462.0        winget
+Windows Package Manager Source (winget)       Microsoft.Winget.Source_8wekyb3d8bbwe          2023.618.2253.425  
+Xbox Game Bar Plugin                          Microsoft.XboxGameOverlay_8wekyb3d8bbwe        1.54.4001.0        
+Xbox Game Bar                                 Microsoft.XboxGamingOverlay_8wekyb3d8bbwe      5.823.3261.0       
+Xbox Identity Provider                        Microsoft.XboxIdentityProvider_8wekyb3d8bbwe   12.95.3001.0       
+Xbox Game Speech Window                       Microsoft.XboxSpeechToTextOverlay_8wekyb3d8bbÔÇª 1.21.13002.0       
+Enlace M├│vil                                  Microsoft.YourPhone_8wekyb3d8bbwe              1.23042.108.0      
+Windows Web Experience Pack                   MicrosoftWindows.Client.WebExperience_cw5n1h2ÔÇª 423.11600.0.0      
+NVIDIA Control Panel                          NVIDIACorp.NVIDIAControlPanel_56jybvy8sckqj    8.1.964.0          
+Microsoft 365 Apps for enterprise - en-us     Microsoft.Office                               16.0.16501.20196   winget
+Aplicaciones de Microsoft 365 para empresas ÔÇª O365ProPlusRetail - es-es                      16.0.16501.20196   
+Oh My Posh version 17.3.0                     JanDeDobbeleer.OhMyPosh                        17.3.0             winget
+Microsoft OneDrive                            Microsoft.OneDrive                             23.107.0521.0001   winget
+Paquete de idioma de Visor de Ayuda de MicroÔÇª Paquete de idioma de Visor de Ayuda de MicrosÔÇª 2.3.28107          
+Postman x86_64 10.14.2                        Postman.Postman                                10.14.2            winget
+Realtek Audio Control                         RealtekSemiconductorCorp.RealtekAudioControl_ÔÇª 1.39.279.0         
+Spotify Music                                 SpotifyAB.SpotifyMusic_zpdnekdrzrea0           1.213.661.0        
+Steam                                         Valve.Steam                                    2.10.91.91         winget
+Microsoft Teams                               Microsoft.Teams                                1.6.00.15884       winget
+WinRAR 6.22 (64-bit)                          RARLab.WinRAR                                  6.22.0             winget
+WinRAR                                        WinRAR.ShellExtension_s4jet1zx4n14a            1.0.0.2            
+Chat GPT                                      chat.openai.com-37DC27AA_9andzsn4mr4ca         1.0.0.0            
+CodeSandbox                                   codesandbox.io-65455AF3_c2k2cxvpkwjge          1.0.0.0            
+Google Drive                                  drive.google.com-14B52288_kwvheen7fjm5r        1.0.0.0            
+JDownloader 2                                 AppWork.JDownloader                            2.0                winget
+JK Anime                                      jkanime.net-38E700E4_2y46y65wa2008             1.0.0.0            
+Google Keep                                   keep.google.com-E3AC328F_x6wzt11gmmj3r         1.0.0.0            
+Kick                                          kick.com-41C99512_xahb0t3mxhkr4                1.0.0.0            
+Correo y Calendario                           microsoft.windowscommunicationsapps_8wekyb3d8ÔÇª 16005.14326.21480ÔÇª 
+Google Photos                                 photos.google.com-868682A9_t53kar1x5wtyy       1.0.0.0            
+HBO Max                                       play.hbomax.com-99B4E71B_0pn6n7jjwchxy         1.0.0.0            
+Trovo                                         trovo.live-4D43D461_pz6mzc80rs5py              1.0.0.0            
+mca-go                                        tv.movistar.com.pe-4A51E512_eenbvfmdxtzye      1.0.0.0            
+Facebook                                      www.facebook.com-AFF245B5_n468xs7erp6tc        1.0.0.4            
+Google Maps                                   www.google.com-D64B4CD1_2ffpm8sm5xkm2          1.0.0.0            
+Instagram                                     www.instagram.com-353F720C_ysfa6mcnwr1rw       1.0.0.0            
+Reddit                                        www.reddit.com-A180F948_4cmcp3m16r51a          1.0.0.0            
+Deportes en vivo, pel├¡culas y series   Star+  www.starplus.com-CDE6613_p31gv01j8w55t         1.0.0.0            
+TikTok                                        www.tiktok.com-BC901751_s5gx0acfdhdxa          1.0.0.0            
+Twitch                                        www.twitch.tv-7A868999_01c5de24c4r2r           1.0.0.0            
+Udemy                                         www.udemy.com-2C85576_6yt4nzqdynqv6            1.0.0.0            
+YouTube                                       www.youtube.com-756BE99A_pd8mbgmqs65xy         1.0.0.0            
+GameSDK Service                               {021d69c3-d686-4a94-8fb5-fd1ee782fb14}         1.0.5.0            
+Microsoft Visual C++ 2013 Redistributable (xÔÇª Microsoft.VCRedist.2013.x64                    12.0.40664.0       winget
+Microsoft VSS Writer para SQL Server 2022     {06DCF03D-7B08-4D25-8D20-658253F9F197}         16.0.1000.6        
+Microsoft SQL Server 2016 LocalDB             {0CA7D28F-F81A-42A2-B14B-CABE07F04282}         13.1.4001.0        
+PowerShell 7-x64                              Microsoft.PowerShell                           7.3.4.0            winget
+Windows SDK AddOn                             {15941C7F-810D-41DF-8C5A-8D0490277AFB}         10.1.0.0           
+Microsoft Visual C++ 2010  x64 RedistributabÔÇª Microsoft.VCRedist.2010.x64                    10.0.40219         winget
+Microsoft SQL Server 2022 Setup (English)     {1D9EE2F2-148E-46B8-ABC8-A9055B4D936C}         16.0.1050.5        
+AURA lighting effect add-on                   {1E2EA04B-FCA7-457E-B6F4-F33E1858E859}         0.0.36             
+Microsoft .NET SDK 7.0.304 (x64)              Microsoft.DotNet.SDK.7                         7.0.304            winget
+Samsung Magician                              Samsung.SamsungMagician                        7.3.0.1100         winget
+ROG Live Service                              {2D87BFB6-C184-4A59-9BBE-3E20CE797631}         2.1.4.0            
+ASUS Framework Service                        {339A6383-7862-46DA-8A9D-E84180EF9424}         3.2.1.2            
+Epic Online Services                          {35905844-0610-427D-86A0-2103FABE3D4D}         2.0.42.0           
+Microsoft SQL Server 2019 LocalDB             {36E492B8-CB83-4DA5-A5D2-D99A8E8228A1}         15.0.4153.1        
+Microsoft System CLR Types para SQL Server 2ÔÇª {36F01827-0DE5-460B-A12D-CBC724DE407E}         15.0.2000.5        
+AniMe Matrix MB EN                            {399B6DA7-B609-426E-95F8-B9A83FB7D06E}         1.0.1              
+Microsoft Azure PowerShell - April 2018       {3BA7CAA9-97BA-4528-B7E1-B640910BB149}         5.7.0.18831        
+Microsoft Visual C++ 2015-2022 RedistributabÔÇª Microsoft.VCRedist.2015+.x86                   14.36.32532.0      winget
+Microsoft Update Health Tools                 {43D501A5-E5E3-46EC-8F33-9E15D2A2CBD5}         5.70.0.0           
+Windows Software Development Kit - Windows 1ÔÇª Microsoft.WindowsSDK.10.0.19041                10.1.19041.685     winget
+Logitech G HUB                                Logitech.GHUB                                  2023.4.407679      winget
+IIS 10.0 Express                              {56674F3A-EE02-4EC7-B429-B8C37CA254E3}         10.0.07728         
+vs_CoreEditorFonts                            {56FB5923-1A95-4D55-BE78-CD42B50E67AD}         17.6.33605         
+Microsoft .NET SDK 5.0.408 (x64)              Microsoft.DotNet.SDK.5                         5.0.408            winget
+ROGFontInstaller                              {605108C1-153E-43D8-8A67-7CE326B00ECA}         1.0.0              
+Azure Data Studio                             {6591F69E-6588-4980-81ED-C8FCBD7EC4B8}_is1     1.44.0             
+Microsoft Visual Studio Installer             {6F320B93-EE3C-4826-85E0-ADF79F8D4C61}         3.6.2115.31769     
+Teams Machine-Wide Installer                  Microsoft.Teams                                1.6.0.4472         winget
+Microsoft Visual Studio Code (User)           Microsoft.VisualStudioCode                     1.79.2             winget
+Epic Games Launcher                           EpicGames.EpicGamesLauncher                    1.3.78.0           winget
+Microsoft ODBC Driver 17 for SQL Server       {8F9B049C-15E3-44B3-BA4C-4618C73D225E}         17.10.3.1          
+Microsoft Visual C++ 2015-2022 RedistributabÔÇª Microsoft.VCRedist.2015+.x64                   14.36.32532.0      winget
+Microsoft Azure Authoring Tools - v2.9.7      {90462BD2-DF5B-449C-A401-FCC1DC264E4E}         2.9.8999.45        
+PowerToys (Preview) x64                       Microsoft.PowerToys                            0.70.1             winget
+ASUS Motherboard                              {93795eb8-bd86-4d4d-ab27-ff80f9467b37}         4.00.06            
+ViGEm Bus Driver                              ViGEm.ViGEmBus                                 1.21.442           winget
+Microsoft Visual C++ 2013 Redistributable (xÔÇª Microsoft.VCRedist.2013.x86                    12.0.40664.0       winget
+Microsoft .NET SDK 7.0.304 (x64) from VisualÔÇª {AB11ADFB-9E37-4DD5-813C-A52D7A1F5ACA}         7.3.423.27513      
+VLC media player                              VideoLAN.VLC                                   3.0.18             winget
+Microsoft OLE DB Driver for SQL Server        {B11B7367-71F7-418C-9FD2-12DF1599AEDA}         18.6.5.0           
+Microsoft Web Deploy 4.0                      Microsoft.WebDeploy                            10.0.7225          winget
+NVIDIA Controlador de gr├íficos 536.23         {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_DisplaÔÇª 536.23             
+NVIDIA GeForce Experience 3.27.0.112          Nvidia.GeForceExperience                       3.27.0.112         winget
+NVIDIA Software del sistema PhysX 9.21.0713   {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_DisplaÔÇª 9.21.0713          
+NVIDIA FrameView SDK 1.3.8513.32290073        {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_FrameVÔÇª 1.3.8513.32290073  
+NVIDIA Controlador de audio HD 1.3.40.14      {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_HDAudiÔÇª 1.3.40.14          
+NVIDIA USBC Driver 1.50.831.832               {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_USBC    1.50.831.832       
+Google Chrome                                 Google.Chrome                                  114.0.5735.134     winget
+Microsoft System CLR Types para SQL Server 2ÔÇª {C42B6F9F-4C9E-45E0-BAD3-4C1F933410A3}         15.0.1200.24       
+AURA lighting effect add-on x64               {C5A4A164-4428-4931-B728-96EEF0FA3C44}         0.0.36             
+Microsoft Azure Libraries for .NET ÔÇô v2.9     {C5C91AA6-3E83-430E-8B7A-6B790083F28D}         3.0.0127.060       
+Update for  (KB2504637)                       {CFEF48A8-BFB8-3EAC-8BA5-DE4F8AA267CE}.KB2504ÔÇª 1                  
+VMware Player                                 VMware.WorkstationPlayer                       17.0.2             winget
+Explorador de SQL Server 2022                 {E5BF61F8-C0D5-46D4-A00C-EFD7B746A57A}         16.0.1000.6        
+Neovim                                        Neovim.Neovim                                  0.9.1              winget
+ARMOURY CRATE Lite Service                    {EF3944FF-2501-4568-B15C-5701E726719E}         5.6.8              
+Microsoft Visual C++ 2010  x86 RedistributabÔÇª Microsoft.VCRedist.2010.x86                    10.0.40219         winget
+Realtek Audio Driver                          {F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}         6.0.9411.1         
+Microsoft SQL Server Management Studio - 19.1 Microsoft.SQLServerManagementStudio            19.1               winget
+Microsoft .NET SDK 6.0.410 (x64)              Microsoft.DotNet.SDK.6                         6.0.410            winget
+AURA Service                                  {be345e17-83f7-4b5f-b533-6f975b9a8180}         3.07.17            
+Microsoft .NET SDK 5.0.100 (x64)              {c0d1830b-4a91-46dc-981e-ebf607e87cfc}         5.1.20.52605       
+Windows Software Development Kit - Windows 1ÔÇª Microsoft.WindowsSDK.10.0.22000                10.0.22000.832     winget
+Microsoft Visual Studio Tools for ApplicatioÔÇª {f3fbabb4-bcfb-45eb-8fff-9b784fd68c38}         16.0.31110         
