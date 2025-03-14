@@ -12,10 +12,38 @@
 	directory = E:/Projects/basc/Extranet/Modulo.Extranet
 	directory = E:/Projects/AUSTRAL/spfx
 	directory = E:/Projects/drupals/weboncosalud_qa/themes/oncosalud
+	directory = E:/Projects/alicorp/Portal.ROM
+	directory = E:/Projects/AUSTRAL/app/AUSTRAL.Intranet.MiPerfil
+	directory = E:/Projects/Engie/Frontend
+	directory = E:/Projects/drupals/weboncosalud_dev/themes/oncosalud
+	directory = E:/Projects/basc/capacitaciones/Modulo.Capacitaciones
+	directory = E:/Projects/basc/modulos_comunes/Componentes.Comunes
+	directory = E:/Projects/Engie/App
+	directory = D:/backups/engie/ENGIE.Vacaciones/ENGIE.Vacaciones/Engie.Vacaciones
+	directory = E:/Projects/basc/operaciones/produccion
+	directory = E:/Projects/basc/capacitaciones/produccion
+	directory = E:/Projects/basc/sig/produccion
+	directory = E:/Projects/Engie/Simple/ENGIE-SIMPLE-Frontend
+	directory = E:/Projects/lap/LAP.Portal.OSIS.FrontEnd
+	directory = E:/Projects/lap/LAP.Portal.OSIS.BackEnd
+	directory = E:/Projects/Engie/ACTIVO_FIJO/EEP_0001_InOne.front-end
+	directory = E:/Projects/Engie/EEP_0001_InOne_ActivoFijo.back-end
+	directory = E:/Projects/Engie/inone/InOneFrontend_Main/EEP_0001_InOne.front-end
+	directory = E:/Projects/Engie/inone/backend_FichaCar/EEP_0001_InOne_FichaCar.back-end
+	directory = E:/Projects/lap/LAP_LDDOCISO_WEBPARTS
+	directory = E:/Projects/Engie/FichaCarMain/EEP_0001_InOne.front-end
+	directory = E:/Projects/Engie/EEP_0001_InOne_ActivoFijo.back-end/.git
+	directory = E:/Projects/Engie/inone/backend_FichaCar/Ficha_Car_Backend
+	directory = E:/Projects/lap/LAP_LDSVC_ADDIN
+	directory = E:/Projects/basc/sig/ModuloSigProduccion/Modulo.SigProyectos.PRD
+	directory = E:/Projects/basc/Extranet/Modulo.Extranet/.git
+	directory = E:/Projects/Engie/FichaCarMain/EEP_0001_InOne.front-end
+	directory = E:/Projects/basc/comunicaciones/Modulo.Comunicaciones
+	directory = E:/Projects/basc/comunicaciones/produccion
 [core]
 	editor = code --wait
 [user]
-	email = pcastro286@outlook.com
+	email = pcastro286@gmail.com
 	name = zoecastro
 [alias]
 	sb = status -sb
@@ -25,6 +53,13 @@
 	rv = remote -v
 	gl = config --global -l
 	save = !git add -A && git commit
-	p = push
+	push = push
+	pull = pull
 	undo = reset --soft HEAD~1
 	contrib = shortlog -e --summary --numbered
+	lg1 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(auto)%d%C(reset)' --all
+	lg2 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(auto)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)'
+	gstl = stash list
+[commit]
+	template = ~/.gitmessage
+

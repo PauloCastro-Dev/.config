@@ -1,11 +1,2 @@
-require("slydragonn.settings")
-require("slydragonn.maps")
-require("slydragonn.plugins")
-
-local themeStatus, onedark = pcall(require, "onedark")
-
-if themeStatus then
-	vim.cmd("colorscheme onedark")
-else
-	return
-end
+-- bootstrap lazy.nvim, LazyVim and your plugins
+require("config.lazy")

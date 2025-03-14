@@ -1,0 +1,27 @@
+{
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "paulo-tokyo",
+				"path": "./themes/paulo-tokyo-color-theme.json",
+				"uiTheme": "vs-dark"
+			}
+		]
+	},
+	"description": "paulo-tokyo",
+	"displayName": "paulo-tokyo",
+	"engines": {
+		"vscode": "^1.90.0"
+	},
+	"name": "paulo-tokyo",
+	"version": "0.0.1",
+	"__metadata": {
+		"isApplicationScoped": false,
+		"installedTimestamp": 1720477999618,
+		"pinned": false,
+		"source": "vsix"
+	}
+}
